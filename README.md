@@ -125,7 +125,7 @@ Travelling, photography, music, and adventure keep me curious outside technology
 
 ## Connect
 
-- **Email:** [JVJITENDRA.WORK@GMAIL.COM](mailto:JVJITENDRA.WORK@GMAIL.COM)
+- **Email:** [JVJITENDRA.WORK@GMAIL.COM](mailto:jvjitendra.work@gmail.com)
 - **LinkedIn:** [linkedin.com/in/jvjitendra](https://www.linkedin.com/in/jvjitendra)
 - **GitHub:** [github.com/jvjitendra](https://github.com/jvjitendra)
 - **Portfolio:** Coming soon
