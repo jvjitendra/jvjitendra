@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 # 👨‍💻 Jitendra Kumar Verma
 
@@ -7,6 +7,7 @@
 **💡 I turn ideas into useful software — from understanding the problem and designing the experience to building, testing, and refining the solution.**
 
 <p>
+  <a href="https://jitendra-kumar-verma-portfolio.vercel.app/">🌐 Portfolio</a> &nbsp;·&nbsp;
   <a href="https://github.com/jvjitendra">🐙 GitHub</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/jvjitendra">💼 LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:JVJITENDRA.WORK@GMAIL.COM">✉️ Email</a>
@@ -72,7 +73,7 @@ A product-oriented exploration of bringing conversational, research, voice, file
 
 **Focus:** Product thinking · Interface design · Frontend integration · Backend services · AI integration
 
-🔗 [Repository](https://github.com/jvjitendra/vaani-ai-workspace) · [Project site](https://vaani-ai-workspace.vercel.app)
+🔗 [Repository](https://github.com/jvjitendra/vaani-ai-workspace) · [Project site](https://vaani-ai-workspace-frontend.vercel.app/)
 
 ## 🎓 College Projects & Fundamentals
 
@@ -151,6 +152,7 @@ When I’m away from the screen, I’m usually interested in **travelling, photo
 I’m looking for opportunities to contribute as an **entry-level Software Engineer, Full-Stack Developer, or Backend Developer** — learn from strong engineering teams, take ownership of meaningful work, and keep improving through real-world problems.
 
 <p>
+  <a href="https://jitendra-kumar-verma-portfolio.vercel.app/">🌐 <b>Portfolio:</b> jitendra-kumar-verma-portfolio.vercel.app</a><br/>
   <a href="mailto:JVJITENDRA.WORK@GMAIL.COM">✉️ JVJITENDRA.WORK@GMAIL.COM</a><br/>
   <a href="https://www.linkedin.com/in/jvjitendra">💼 LinkedIn</a> ·
   <a href="https://github.com/jvjitendra">🐙 GitHub</a>
